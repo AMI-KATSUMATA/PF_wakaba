@@ -18,7 +18,8 @@ CDジャケットのデザインやカメラマンを低コスト高品質で作
 好きな/興味があるアーティストのCDジャケットデザインやカメラマン活動を行いたい時
 ## 設計書
 UI flows
-<https://drive.google.com/file/d/1eUlU9aW3FgToe-izDkqZcnqRHUMFtRkg/view?usp=sharing>
+会員側は<a href="https://drive.google.com/file/d/1eUlU9aW3FgToe-izDkqZcnqRHUMFtRkg/view?usp=sharing">こちら</a>
+管理者側は<a href="https://drive.google.com/file/d/1VW2RkdH8BQ1-QDfJDQEit_-cdHiyWMV8/view?usp=sharing">こちら</a>
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1njii3RLyKSY5IHW3VAZaP4Og9RINuHAobC6AgrepmBU/edit?usp=sharing
